@@ -1,0 +1,11 @@
+C:\Kevin\C#\Semana01\Semana01\bin\Debug\Semana01.exe.config
+C:\Kevin\C#\Semana01\Semana01\bin\Debug\Semana01.exe
+C:\Kevin\C#\Semana01\Semana01\bin\Debug\Semana01.pdb
+C:\Kevin\C#\Semana01\Semana01\obj\Debug\Semana01.csprojAssemblyReference.cache
+C:\Kevin\C#\Semana01\Semana01\obj\Debug\Semana01.Form1.resources
+C:\Kevin\C#\Semana01\Semana01\obj\Debug\Semana01.Properties.Resources.resources
+C:\Kevin\C#\Semana01\Semana01\obj\Debug\Semana01.csproj.GenerateResource.cache
+C:\Kevin\C#\Semana01\Semana01\obj\Debug\Semana01.exe
+C:\Kevin\C#\Semana01\Semana01\obj\Debug\Semana01.pdb
+C:\Kevin\C#\Semana01\Semana01\obj\Debug\Semana01.frmClientes.resources
+C:\Kevin\C#\Semana01\Semana01\obj\Debug\Semana01.pjConexion3.resources
